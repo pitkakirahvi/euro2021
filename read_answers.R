@@ -16,16 +16,20 @@ for (file in data_files) {
     separate(all_of(name), into = c("match", name), sep = ":")
   
   p_round16 <- tibble(!!name := data$round16) %>%
-    unnest(all_of(name))
+    unnest(all_of(name)) %>% 
+    arrange(!!!syms(name))
   
   p_round8 <- tibble(!!name := data$round8) %>%
-    unnest(all_of(name))
+    unnest(all_of(name)) %>% 
+    arrange(!!!syms(name))
   
   p_round4 <- tibble(!!name := data$round4) %>%
-    unnest(all_of(name))
+    unnest(all_of(name)) %>% 
+    arrange(!!!syms(name))
   
   p_final <- tibble(!!name := data$final) %>%
-    unnest(all_of(name))
+    unnest(all_of(name)) %>% 
+    arrange(!!!syms(name))
   
   p_winner <- tibble(!!name := data$winner) %>%
     unnest(all_of(name))

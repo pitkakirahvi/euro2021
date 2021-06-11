@@ -94,14 +94,14 @@ group_matches <- bind_rows(
 ) 
 
 all_matches %>%
-  write_delim("matches.txt", delim = "\t")
+  write_delim(here("results", "matches.txt"), delim = "\t")
 
 group_matches %>%
-  write_delim("group_matches.txt", delim = "\t")
+  write_delim(here("results", "group_matches.txt"), delim = "\t")
 
 teams <- c(group_matches$home, group_matches$away)
 teams <- unique(teams) 
 teams <- teams[order(teams)]
 
 teams %>%
-  write("teams.txt")
+  write(here("results","teams.txt"))

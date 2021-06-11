@@ -1,11 +1,15 @@
 library(shiny)
 library(tidyverse)
 library(jsonlite)
+library(here)
 
-squads <- read_delim("squads.txt", delim = "\t",
+squads <- read_delim(here("results", "squads.txt"), 
+                     delim = "\t",
                      locale = locale("fi"))
-teams <- readLines("teams.txt", encoding = "UTF-8")
-matches <- read_delim("group_matches.txt", delim = "\t", 
+teams <- readLines(here("results", "teams.txt"),
+                   encoding = "UTF-8")
+matches <- read_delim(here("results", "group_matches.txt"),
+                      delim = "\t", 
                       locale = locale("fi"))
 
 matches_a <- matches %>%

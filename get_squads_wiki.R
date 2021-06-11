@@ -1,5 +1,6 @@
 library(rvest)
 library(tidyverse)
+library(here)
 
 path <- "https://en.wikipedia.org/wiki/UEFA_Euro_2020_squads"
 
@@ -17,4 +18,4 @@ squads <- squads[1:24] %>%
   arrange(Player)
 
 squads <- squads %>%
-  write_delim("squads.txt", delim = "\t")
+  write_delim(here("results", "squads.txt"), delim = "\t")

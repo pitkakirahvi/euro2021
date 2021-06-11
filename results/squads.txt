@@ -1,16 +1,16 @@
 Player	Caps	Goals	Club
 Aaron Ramsey	63	16	Juventus
 Abdülkadir Ömür	9	0	Trabzonspor
-Ádám Bogdán	20	0	Ferencváros
+Ádám Bogdán	21	0	Ferencváros
 Adam Davies	2	0	Stoke City
-Adam Hložek	2	0	Sparta Prague
+Adam Hložek	3	0	Sparta Prague
 Ádám Lang	39	1	Omonia
-Ádám Nagy	47	1	Bristol City
-Ádám Szalai	70	23	Mainz 05
+Ádám Nagy	48	1	Bristol City
+Ádám Szalai	71	23	Mainz 05
 Adama Traoré	5	0	Wolverhampton Wanderers
 Admir Mehmedi	74	10	VfL Wolfsburg
 Adrien Rabiot	15	0	Juventus
-Ákos Kecskés	1	0	Lugano
+Ákos Kecskés	2	0	Lugano
 Albin Ekdal	57	0	Sampdoria
 Aleksandar Dragović	90	2	Bayer Leverkusen
 Aleksandar Trajkovski	65	18	Mallorca
@@ -23,7 +23,7 @@ Aleš Matějů	4	0	Brescia
 Alessandro Bastoni	5	0	Internazionale
 Alessandro Florenzi	43	2	Paris Saint-Germain
 Alessandro Schöpf	26	5	Schalke 04
-Alex Král	17	2	Spartak Moscow
+Alex Král	18	2	Spartak Moscow
 Alex Meret	2	0	Napoli
 Alexander Isak	22	6	Real Sociedad
 Alexander Schlager	6	0	LASK
@@ -31,36 +31,34 @@ Altay Bayındır	1	0	Fenerbahçe
 Álvaro Morata	40	19	Juventus
 Anatoliy Trubin	2	0	Shakhtar Donetsk
 Anders Christiansen	4	0	Malmö FF
-András Schäfer	5	1	Dunajská Streda
-André Silva	38	16	Eintracht Frankfurt
+András Schäfer	6	1	Dunajská Streda
+André Silva	39	16	Eintracht Frankfurt
 Andrea Belotti	33	12	Torino
-Andreas Christensen	40	1	Chelsea
-Andreas Cornelius	27	5	Parma
+Andreas Christensen	41	1	Chelsea
+Andreas Cornelius	28	6	Parma
 Andreas Granqvist	88	9	Helsingborgs IF
 Andreas Skov Olsen	6	3	Bologna
-Andreas Ulmer	23	0	Red Bull Salzburg
-Andrei Mostovoy	8	0	Zenit Saint Petersburg
+Andreas Ulmer	24	0	Red Bull Salzburg
 Andrei Semyonov	26	0	Akhmat Grozny
-Andrej Kramarić	53	14	1899 Hoffenheim
-Andrew Robertson	44	3	Liverpool
-Andriy Pyatov	96	0	Shakhtar Donetsk
-Andriy Yarmolenko	93	38	West Ham United
+Andrej Kramarić	54	14	1899 Hoffenheim
+Andrew Robertson	45	3	Liverpool
+Andriy Pyatov	97	0	Shakhtar Donetsk
+Andriy Yarmolenko	94	40	West Ham United
 Anssi Jaakkola	3	0	Bristol Rovers
 Ante Budimir	7	1	Osasuna
-Ante Rebić	37	3	Milan
+Ante Rebić	38	3	Milan
 Anthony Lopes	13	0	Lyon
-Antoine Griezmann	90	36	Barcelona
+Antoine Griezmann	91	37	Barcelona
 Anton Shunin	12	0	Dynamo Moscow
 Anton Zabolotny	13	1	Sochi
-Antonín Barák	19	6	Hellas Verona
-Antonio Rüdiger	40	1	Chelsea
+Antonín Barák	20	6	Hellas Verona
+Antonio Rüdiger	41	1	Chelsea
 Arijan Ademi	21	4	Dinamo Zagreb
-Arkadiusz Milik	59	15	Marseille
-Artem Besyedin	15	2	Dynamo Kyiv
+Artem Besyedin	16	2	Dynamo Kyiv
 Artem Dovbyk	2	0	Dnipro-1
 Artem Dzyuba	52	29	Zenit Saint Petersburg
-Attila Fiola	34	1	Fehérvár
-Attila Szalai	12	0	Fenerbahçe
+Attila Fiola	35	1	Fehérvár
+Attila Szalai	13	0	Fenerbahçe
 Axel Witsel	110	10	Borussia Dortmund
 Aymeric Laporte	1	0	Manchester City
 Bartosz Bereszyński	32	0	Sampdoria
@@ -68,69 +66,70 @@ Bećir Omeragić	4	0	Zürich
 Ben Cabango	3	0	Swansea City
 Ben Chilwell	14	0	Chelsea
 Ben Davies	60	0	Tottenham Hotspur
-Bendegúz Bolla	1	0	Fehérvár
-Benjamin Pavard	34	2	Bayern Munich
-Bernardo Silva	54	7	Manchester City
+Ben White	2	0	Brighton & Hove Albion
+Bendegúz Bolla	2	0	Fehérvár
+Benjamin Pavard	35	2	Bayern Munich
+Bernardo Silva	55	7	Manchester City
 Bernd Leno	8	0	Arsenal
-Billy Gilmour	1	0	Chelsea
+Billy Gilmour	2	0	Chelsea
 Boban Nikolov	34	2	Lecce
-Borna Barišić	19	1	Rangers
+Borna Barišić	20	1	Rangers
 Breel Embolo	43	5	Borussia Mönchengladbach
-Bruno Fernandes	28	2	Manchester United
-Bruno Petković	14	6	Dinamo Zagreb
+Bruno Fernandes	29	4	Manchester United
+Bruno Petković	15	6	Dinamo Zagreb
 Bryan Cristante	11	1	Roma
 Bukayo Saka	5	1	Arsenal
 Burak Yılmaz	67	29	Lille
 Çağlar Söyüncü	35	2	Leicester City
-Callum McGregor	30	0	Celtic
+Callum McGregor	31	0	Celtic
 Cengiz Ünder	29	9	Leicester City
 César Azpilicueta	25	0	Chelsea
-Ché Adams	3	1	Southampton
+Ché Adams	4	2	Southampton
 Chris Gunter	101	0	Charlton Athletic
 Chris Mepham	18	0	Bournemouth
 Christian Benteke	39	16	Crystal Palace
-Christian Eriksen	107	36	Internazionale
+Christian Eriksen	108	36	Internazionale
 Christian Fassnacht	8	3	Young Boys
-Christian Günter	2	0	SC Freiburg
+Christian Günter	3	0	SC Freiburg
 Christian Nørgaard	4	0	Brentford
-Christoph Baumgartner	9	3	1899 Hoffenheim
-Christopher Trimmel	12	0	Union Berlin
+Christoph Baumgartner	10	3	1899 Hoffenheim
+Christopher Trimmel	13	0	Union Berlin
 Ciro Immobile	46	13	Lazio
 Clément Lenglet	12	1	Barcelona
 Cody Gakpo	0	0	PSV Eindhoven
 Connor Roberts	26	1	Swansea City
 Conor Coady	5	1	Wolverhampton Wanderers
-Corentin Tolisso	24	2	Bayern Munich
+Corentin Tolisso	25	2	Bayern Munich
 Craig Gordon	57	0	Heart of Midlothian
-Cristiano Ronaldo	174	103	Juventus
+Cristiano Ronaldo	175	104	Juventus
 Daler Kuzyayev	34	2	Zenit Saint Petersburg
-Daley Blind	77	2	Ajax
+Daley Blind	78	2	Ajax
 Damjan Shishkovski	6	0	Doxa Katokopias
 Dani Olmo	11	3	RB Leipzig
 Daniel Avramovski	6	0	Kayserispor
-Daniel Bachmann	1	0	Watford
+Daniel Bachmann	2	0	Watford
 Dániel Gazdag	6	1	Philadelphia Union
 Daniel James	20	4	Manchester United
 Daniel O'Shaughnessy	11	0	HJK
-Daniel Wass	29	0	Valencia
+Daniel Wass	30	0	Valencia
 Daniil Fomin	4	0	Dynamo Moscow
-Danilo Pereira	46	2	Paris Saint-Germain
+Danilo Pereira	47	2	Paris Saint-Germain
 Danny Ward	13	0	Leicester City
 Darko Churlinov	3	1	VfB Stuttgart
 Darko Velkovski	27	1	Rijeka
-David Alaba	80	14	Bayern Munich
+David Alaba	81	14	Bayern Munich
 David Brooks	18	2	Bournemouth
 David de Gea	45	0	Manchester United
 Dávid Hancko	14	1	Sparta Prague
-David Marshall	43	0	Derby County
+David Marshall	44	0	Derby County
 Dávid Sigér	13	1	Ferencváros
 David Turnbull	1	0	Celtic
 David Zima	2	0	Slavia Prague
-Davy Klaassen	23	5	Ajax
+Davy Klaassen	24	5	Ajax
 Dawid Kownacki	7	1	Fortuna Düsseldorf
 Dean Henderson	1	0	Manchester United
-Declan Gallagher	8	0	Motherwell
-Declan Rice	16	1	West Ham United
+Declan Gallagher	9	0	Motherwell
+Declan Rice	17	1	West Ham United
 Dedryck Boyata	23	0	Hertha BSC
 Dejan Kulusevski	13	1	Juventus
 Dejan Lovren	64	4	Zenit Saint Petersburg
@@ -141,32 +140,31 @@ Denis Vavro	10	0	Huesca
 Denis Zakaria	32	3	Borussia Mönchengladbach
 Dennis Praet	11	1	Leicester City
 Denys Popov	1	0	Dynamo Kyiv
-Denzel Dumfries	18	0	PSV Eindhoven
+Denzel Dumfries	19	0	PSV Eindhoven
 Diego Llorente	8	0	Leeds United
-Diogo Jota	13	6	Liverpool
+Diogo Jota	14	6	Liverpool
 Djibril Sow	16	0	Eintracht Frankfurt
 Dmitri Barinov	5	0	Lokomotiv Moscow
 Domagoj Bradarić	4	0	Lille
-Domagoj Vida	87	4	Beşiktaş
+Domagoj Vida	88	4	Beşiktaş
 Domenico Berardi	11	5	Sassuolo
-Dominic Calvert-Lewin	8	4	Everton
-Dominik Livaković	20	0	Dinamo Zagreb
-Donny van de Beek	19	3	Manchester United
-Donyell Malen	8	2	PSV Eindhoven
+Dominic Calvert-Lewin	9	4	Everton
+Dominik Livaković	21	0	Dinamo Zagreb
+Donyell Malen	9	2	PSV Eindhoven
 Dorukhan Toköz	9	1	Beşiktaş
-Dries Mertens	97	21	Napoli
-Duje Ćaleta-Car	13	0	Marseille
+Dries Mertens	98	21	Napoli
+Duje Ćaleta-Car	14	0	Marseille
 Dušan Kuciak	14	0	Lechia Gdańsk
 Dylan Levitt	8	0	Istra 1961
-Eden Hazard	106	32	Real Madrid
+Eden Hazard	107	32	Real Madrid
 Edimilson Fernandes	22	2	Mainz 05
-Eduard Sobol	19	0	Club Brugge
+Eduard Sobol	20	0	Club Brugge
 Egzon Bejtulai	21	0	Shkëndija
 Elif Elmas	27	7	Napoli
 Emerson	15	0	Chelsea
 Emil Forsberg	58	9	RB Leipzig
 Emil Krafth	28	0	Newcastle United
-Emre Can	33	1	Borussia Dortmund
+Emre Can	34	1	Borussia Dortmund
 Endre Botka	10	0	Ferencváros
 Enes Ünal	22	2	Getafe
 Enis Bardhi	34	6	Levante
@@ -182,77 +180,78 @@ Ferhan Hasani	41	2	Partizani
 Ferran Torres	11	6	Manchester City
 Filip Helander	15	0	Rangers
 Filip Holender	15	1	Partizan
-Florian Grillitsch	22	1	1899 Hoffenheim
+Florian Grillitsch	23	1	1899 Hoffenheim
 Florian Neuhaus	6	2	Borussia Mönchengladbach
 Francesco Acerbi	14	1	Lazio
 Frederik Rønnow	8	0	Schalke 04
 Fredrik Jensen	18	7	FC Augsburg
-Frenkie de Jong	26	1	Barcelona
+Frenkie de Jong	27	1	Barcelona
 Fyodor Kudryashov	44	1	Antalyaspor
+Gaetano Castrovilli	2	0	Fiorentina
 Gareth Bale	92	33	Tottenham Hotspur
 Georgi Dzhikiya	33	1	Spartak Moscow
-Georginio Wijnaldum	74	22	Liverpool
+Georginio Wijnaldum	75	22	Liverpool
 Gerard Moreno	11	5	Villarreal
-Gergő Lovrencsics	40	1	Ferencváros
+Gergő Lovrencsics	41	1	Ferencváros
 Giacomo Raspadori	1	0	Sassuolo
 Gianluigi Donnarumma	26	0	Milan
 Giorgio Chiellini	107	8	Juventus
 Giovanni Di Lorenzo	7	0	Napoli
 Gjoko Zajkov	17	1	Charleroi
 Glen Kamara	31	1	Rangers
-Gonçalo Guedes	22	6	Valencia
+Gonçalo Guedes	23	6	Valencia
 Goran Pandev	119	37	Genoa
 Granit Xhaka	94	12	Arsenal
-Grant Hanley	32	2	Norwich City
+Grant Hanley	33	2	Norwich City
 Greg Taylor	5	0	Celtic
-Grzegorz Krychowiak	79	4	Lokomotiv Moscow
+Grzegorz Krychowiak	80	4	Lokomotiv Moscow
 Gustav Svensson	31	0	Guangzhou City
 Hakan Çalhanoğlu	56	13	Milan
 Halil Dervişoğlu	2	1	Galatasaray
-Hans Vanaken	9	2	Club Brugge
+Hans Vanaken	10	2	Club Brugge
 Haris Seferović	74	21	Benfica
 Harry Kane	54	34	Tottenham Hotspur
 Harry Maguire	32	3	Manchester United
 Harry Wilson	26	5	Cardiff City
 Heorhiy Bushchan	6	0	Dynamo Kyiv
-Heorhiy Sudakov	2	0	Shakhtar Donetsk
-Hugo Lloris	124	0	Tottenham Hotspur
+Heorhiy Sudakov	3	0	Shakhtar Donetsk
+Hugo Lloris	125	0	Tottenham Hotspur
 Igor Diveyev	4	0	CSKA Moscow
-İlkay Gündoğan	45	10	Manchester City
-Illya Zabarnyi	7	0	Dynamo Kyiv
+İlkay Gündoğan	46	11	Manchester City
+Illya Zabarnyi	8	0	Dynamo Kyiv
 İrfan Kahveci	18	0	Fenerbahçe
-Ivan Perišić	100	28	Internazionale
-Ivan Schranz	7	1	Jablonec
+Ivan Perišić	101	28	Internazionale
+Ivan Schranz	8	1	Jablonec
 Ivan Trichkovski	64	7	AEK Larnaca
-Jack Grealish	6	0	Aston Villa
+Jack Grealish	7	0	Aston Villa
 Jack Hendry	6	1	Oostende
-Jadon Sancho	18	3	Borussia Dortmund
+Jadon Sancho	19	3	Borussia Dortmund
 Jakub Brabec	21	1	Viktoria Plzeň
-Jakub Hromada	1	0	Slavia Prague
-Jakub Jankto	34	4	Sampdoria
-Jakub Moder	9	2	Brighton & Hove Albion
-Jakub Pešek	1	1	Slovan Liberec
-Jakub Świerczok	4	1	Piast Gliwice
-Jamal Musiala	2	0	Bayern Munich
-James Forrest	36	5	Celtic
+Jakub Hromada	2	0	Slavia Prague
+Jakub Jankto	35	4	Sampdoria
+Jakub Moder	10	2	Brighton & Hove Albion
+Jakub Pešek	2	1	Slovan Liberec
+Jakub Świerczok	5	1	Piast Gliwice
+Jamal Musiala	3	0	Bayern Munich
+James Forrest	37	5	Celtic
 Jan Bednarek	30	1	Southampton
-Jan Bořil	22	0	Slavia Prague
-Ján Greguš	34	4	Minnesota United FC
-Jan Vertonghen	126	9	Benfica
+Jan Bořil	23	0	Slavia Prague
+Ján Greguš	35	4	Minnesota United FC
+Jan Vertonghen	127	9	Benfica
 Jannik Vestergaard	22	1	Southampton
-János Hahn	1	0	Paks
-Jason Denayer	24	1	Lyon
+János Hahn	2	0	Paks
+Jason Denayer	25	1	Lyon
 Jens Cajuste	4	0	Midtjylland
-Jens Stryger Larsen	35	2	Udinese
+Jens Stryger Larsen	36	2	Udinese
 Jere Uronen	49	1	Genk
-Jérémy Doku	7	2	Rennes
+Jérémy Doku	8	2	Rennes
 Jesse Joronen	14	0	Brescia
 Jiří Pavlenka	14	0	Werder Bremen
-Joachim Andersen	4	0	Fulham
-Joakim Mæhle	9	2	Atalanta
-João Cancelo	26	4	Manchester City
+Joachim Andersen	5	0	Fulham
+Joakim Mæhle	10	2	Atalanta
+João Cancelo	27	5	Manchester City
 João Félix	17	3	Atlético Madrid
-João Moutinho	130	7	Wolverhampton Wanderers
+João Moutinho	131	7	Wolverhampton Wanderers
 João Palhinha	4	1	Sporting CP
 Joe Allen	59	2	Stoke City
 Joe Morrell	15	0	Luton Town
@@ -260,17 +259,17 @@ Joe Rodon	14	0	Tottenham Hotspur
 Joel Pohjanpalo	42	9	Union Berlin
 Joël Veltman	27	2	Brighton & Hove Albion
 John Fleck	5	0	Sheffield United
-John McGinn	32	10	Aston Villa
+John McGinn	33	10	Aston Villa
 John Stones	42	2	Manchester City
 Jon McLaughlin	2	0	Rangers
 Jonas Hofmann	3	0	Borussia Mönchengladbach
 Jonas Lössl	1	0	Midtjylland
 Jonas Omlin	2	0	Montpellier
-Jonas Wind	6	3	Copenhagen
+Jonas Wind	7	3	Copenhagen
 Joni Kauko	25	0	Esbjerg
 Jonny Williams	28	1	Cardiff City
 Joona Toivio	73	3	BK Häcken
-Jordan Henderson	58	0	Liverpool
+Jordan Henderson	59	0	Liverpool
 Jordan Larsson	6	1	Spartak Moscow
 Jordan Lotomba	2	0	Nice
 Jordan Pickford	31	0	Everton
@@ -278,95 +277,94 @@ Jordi Alba	72	8	Barcelona
 Jorginho	28	5	Chelsea
 José Fonte	46	0	Lille
 José Gayà	14	2	Valencia
-Joshua Kimmich	54	3	Bayern Munich
-Josip Brekalo	23	4	VfL Wolfsburg
+Joshua Kimmich	55	3	Bayern Munich
+Josip Brekalo	24	4	VfL Wolfsburg
 Josip Juranović	8	0	Legia Warsaw
-Joško Gvardiol	0	0	Dinamo Zagreb
-Jude Bellingham	3	0	Borussia Dortmund
+Joško Gvardiol	1	0	Dinamo Zagreb
+Jude Bellingham	4	0	Borussia Dortmund
 Jukka Raitala	52	0	Minnesota United FC
 Jules Koundé	1	0	Sevilla
 Julian Baumgartlinger	83	1	Bayer Leverkusen
-Juraj Kucka	82	10	Parma
-Jurriën Timber	1	0	Ajax
+Juraj Kucka	83	10	Parma
+Jurriën Timber	2	0	Ajax
 Kaan Ayhan	37	4	Sassuolo
-Kacper Kozłowski	2	0	Pogoń Szczecin
-Kai Havertz	13	3	Chelsea
-Kalvin Phillips	7	0	Leeds United
-Kamil Glik	82	6	Benevento
-Kamil Jóźwiak	13	2	Derby County
+Kacper Kozłowski	3	0	Pogoń Szczecin
+Kai Havertz	14	3	Chelsea
+Kalvin Phillips	8	0	Leeds United
+Kamil Glik	83	6	Benevento
+Kamil Jóźwiak	14	2	Derby County
 Kamil Piątkowski	2	0	Raków Częstochowa
-Karim Benzema	82	27	Real Madrid
+Karim Benzema	83	27	Real Madrid
 Karim Onisiwo	11	1	Mainz 05
 Karl-Johan Johnsson	9	0	Copenhagen
-Karol Linetty	31	2	Torino
-Karol Świderski	3	1	PAOK
-Kasper Dolberg	25	7	Nice
-Kasper Schmeichel	64	0	Leicester City
+Karol Linetty	32	2	Torino
+Karol Świderski	4	2	PAOK
+Kasper Dolberg	26	7	Nice
+Kasper Schmeichel	65	0	Leicester City
 Ken Sema	12	0	Watford
 Kenan Karaman	22	5	Fortuna Düsseldorf
 Kerem Aktürkoğlu	1	0	Galatasaray
 Kevin De Bruyne	80	21	Manchester City
 Kevin Mbabu	12	0	VfL Wolfsburg
-Kevin Nisbet	2	1	Hibernian
+Kevin Nisbet	3	1	Hibernian
 Kevin Trapp	5	0	Eintracht Frankfurt
-Kevin Varga	7	1	Kasımpaşa
+Kevin Varga	8	1	Kasımpaşa
 Kevin Volland	11	1	Monaco
 Kieffer Moore	17	5	Cardiff City
-Kieran Tierney	20	0	Arsenal
-Kieran Trippier	27	1	Atlético Madrid
+Kieran Tierney	21	0	Arsenal
+Kieran Trippier	28	1	Atlético Madrid
 Kingsley Coman	30	5	Bayern Munich
 Kire Ristevski	47	0	Újpest
 Koke	50	0	Atlético Madrid
-Konrad Laimer	8	1	RB Leipzig
+Konrad Laimer	9	1	RB Leipzig
 Kristoffer Nordfeldt	14	0	Gençlerbirliği
 Kristoffer Olsson	25	0	Krasnodar
 Krste Velkoski	16	0	Sarajevo
 Kurt Zouma	8	1	Chelsea
 Kyle Walker	55	0	Manchester City
-Kylian Mbappé	43	17	Paris Saint-Germain
+Kylian Mbappé	44	17	Paris Saint-Germain
 Lassi Lappalainen	8	0	CF Montréal
-László Bénes	4	1	FC Augsburg
-László Kleinheisler	33	3	Osijek
-Leander Dendoncker	16	0	Wolverhampton Wanderers
+László Bénes	5	1	FC Augsburg
+László Kleinheisler	34	3	Osijek
+Leander Dendoncker	17	0	Wolverhampton Wanderers
 Leandro Trossard	7	2	Brighton & Hove Albion
 Léo Dubois	7	0	Lyon
 Leo Väisänen	8	0	IF Elfsborg
 Leon Goretzka	32	13	Bayern Munich
 Leonardo Bonucci	102	7	Juventus
 Leonardo Spinazzola	14	0	Roma
-Leroy Sané	29	6	Bayern Munich
+Leroy Sané	30	7	Bayern Munich
 Liam Cooper	6	0	Leeds United
-Loïc Négo	10	2	Fehérvár
+Loïc Négo	11	2	Fehérvár
 Lorenzo Insigne	41	8	Napoli
-Lorenzo Pellegrini	17	2	Roma
 Loris Benito	12	1	Bordeaux
-Louis Schaub	20	6	Luzern
+Louis Schaub	21	6	Luzern
 Lovre Kalinić	19	0	Hajduk Split
-Ľubomír Šatka	13	0	Lech Poznań
-Lucas Digne	37	0	Everton
-Lucas Hernandez	25	0	Bayern Munich
+Ľubomír Šatka	14	0	Lech Poznań
+Lucas Digne	38	0	Everton
+Lucas Hernandez	26	0	Bayern Munich
 Ludwig Augustinsson	32	2	Werder Bremen
 Luka Ivanušec	2	1	Dinamo Zagreb
-Luka Modrić	137	17	Real Madrid
-Lukáš Haraslín	14	1	Sassuolo
+Luka Modrić	138	17	Real Madrid
+Lukáš Haraslín	15	1	Sassuolo
 Lukáš Hrádecký	65	0	Bayer Leverkusen
 Lukas Klostermann	13	0	RB Leipzig
-Lukáš Masopust	21	1	Slavia Prague
+Lukáš Masopust	22	2	Slavia Prague
 Łukasz Fabiański	56	0	West Ham United
 Łukasz Skorupski	4	0	Bologna
-Luke Shaw	9	0	Manchester United
+Luke Shaw	10	0	Manchester United
 Luuk de Jong	36	8	Sevilla
-Lyndon Dykes	11	2	Queens Park Rangers
-Maarten Stekelenburg	58	0	Ajax
-Maciej Rybus	61	2	Lokomotiv Moscow
+Lyndon Dykes	12	2	Queens Park Rangers
+Maarten Stekelenburg	59	0	Ajax
+Maciej Rybus	62	2	Lokomotiv Moscow
 Magomed Ozdoyev	32	4	Zenit Saint Petersburg
 Maksim Mukhin	2	0	Lokomotiv Moscow
 Manuel Akanji	29	0	Borussia Dortmund
 Manuel Locatelli	10	1	Sassuolo
-Manuel Neuer	99	0	Bayern Munich
+Manuel Neuer	100	0	Bayern Munich
 Marcel Halstenberg	8	1	RB Leipzig
-Marcel Sabitzer	49	8	RB Leipzig
-Marcelo Brozović	58	6	Internazionale
+Marcel Sabitzer	50	8	RB Leipzig
+Marcelo Brozović	59	6	Internazionale
 Marco Bizot	1	0	AZ
 Marco Friedl	3	0	Werder Bremen
 Marco Verratti	40	3	Paris Saint-Germain
@@ -374,42 +372,43 @@ Marcos Llorente	5	0	Atlético Madrid
 Marcus Berg	86	24	Krasnodar
 Marcus Danielson	9	3	Dalian Professional
 Marcus Forss	5	1	Brentford
-Marcus Rashford	40	11	Manchester United
+Marcus Rashford	41	12	Manchester United
 Marcus Thuram	3	0	Borussia Mönchengladbach
 Marek Hamšík	126	26	IFK Göteborg
 Marek Rodák	6	0	Fulham
 Mário Fernandes	29	5	CSKA Moscow
 Mario Gavranović	30	14	Dinamo Zagreb
-Mario Pašalić	24	3	Atalanta
+Mario Pašalić	25	3	Atalanta
 Marjan Radeski	17	1	Akademija Pandev
-Marko Arnautović	87	26	Shanghai Port
-Marlos	24	1	Shakhtar Donetsk
-Marten de Roon	22	0	Atalanta
-Martin Braithwaite	49	8	Barcelona
-Martin Dúbravka	24	0	Newcastle United
-Martin Hinteregger	54	4	Eintracht Frankfurt
-Martin Koscelník	4	0	Slovan Liberec
+Marko Arnautović	88	26	Shanghai Port
+Marlos	25	1	Shakhtar Donetsk
+Marten de Roon	23	0	Atalanta
+Martin Braithwaite	50	9	Barcelona
+Martin Dúbravka	25	0	Newcastle United
+Martin Hinteregger	55	4	Eintracht Frankfurt
+Martin Koscelník	5	0	Slovan Liberec
 Martin Valjent	9	0	Mallorca
 Mason Mount	16	4	Chelsea
 Matěj Vydra	36	6	Burnley
-Mateo Kovačić	66	3	Chelsea
+Mateo Kovačić	67	3	Chelsea
 Mateusz Klich	31	2	Leeds United
-Mathias Jensen	5	1	Brentford
+Mathias Jensen	6	1	Brentford
 Mathias Jørgensen	35	2	Copenhagen
-Mats Hummels	71	5	Borussia Dortmund
+Mats Hummels	72	5	Borussia Dortmund
+Matteo Pessina	5	2	Atalanta
 Matthew Smith	14	0	Doncaster Rovers
-Matthias Ginter	39	2	Borussia Mönchengladbach
+Matthias Ginter	40	2	Borussia Mönchengladbach
 Matthijs de Ligt	27	2	Juventus
 Mattias Svanberg	9	1	Bologna
 Matvei Safonov	1	0	Krasnodar
 Matz Sels	1	0	Strasbourg
-Memphis Depay	63	25	Lyon
+Memphis Depay	64	26	Lyon
 Merih Demiral	21	0	Juventus
 Mert Günok	22	0	İstanbul Başakşehir
 Mert Müldür	8	0	Sassuolo
-Michael Gregoritsch	25	4	FC Augsburg
+Michael Gregoritsch	26	4	FC Augsburg
 Michael Krmenčík	29	9	PAOK
-Michal Ďuriš	55	7	Omonia
+Michal Ďuriš	56	7	Omonia
 Michał Helik	3	0	Barnsley
 Michal Sadílek	1	0	Slovan Liberec
 Michy Batshuayi	34	22	Crystal Palace
@@ -419,77 +418,77 @@ Mikel Oyarzabal	13	4	Real Sociedad
 Mikkel Damsgaard	3	2	Sampdoria
 Milan Badelj	55	2	Genoa
 Milan Ristovski	1	1	Spartak Trnava
-Milan Škriniar	39	2	Internazionale
+Milan Škriniar	40	2	Internazionale
 Mile Škorić	5	0	Osijek
-Mislav Oršić	8	0	Dinamo Zagreb
-Moussa Sissoko	68	2	Tottenham Hotspur
-Mykola Matviyenko	35	0	Shakhtar Donetsk
-Mykola Shaparenko	11	0	Dynamo Kyiv
-N'Golo Kanté	45	2	Chelsea
-Nacer Chadli	63	8	İstanbul Başakşehir
-Nathan Aké	19	2	Manchester City
-Nathan Patterson	0	0	Rangers
+Mislav Oršić	9	0	Dinamo Zagreb
+Moussa Sissoko	69	2	Tottenham Hotspur
+Mykola Matviyenko	36	0	Shakhtar Donetsk
+Mykola Shaparenko	12	0	Dynamo Kyiv
+N'Golo Kanté	46	2	Chelsea
+Nacer Chadli	64	8	İstanbul Başakşehir
+Nathan Aké	20	2	Manchester City
+Nathan Patterson	1	0	Rangers
 Neco Williams	11	1	Liverpool
 Nélson Semedo	18	0	Wolverhampton Wanderers
 Nemanja Nikolić	38	8	Fehérvár
 Nico Elvedi	26	1	Borussia Mönchengladbach
-Nicolai Boilesen	19	1	Copenhagen
+Nicolai Boilesen	20	1	Copenhagen
 Nicolò Barella	23	5	Internazionale
-Niklas Süle	30	1	Bayern Munich
+Niklas Süle	31	1	Bayern Munich
 Niko Hämäläinen	7	0	Queens Park Rangers
-Nikola Vlašić	21	5	CSKA Moscow
+Nikola Vlašić	22	5	CSKA Moscow
 Nikolai Alho	12	0	MTK Budapest
-Nuno Mendes	4	0	Sporting CP
+Nuno Mendes	5	0	Sporting CP
 Okay Yokuşlu	34	1	West Bromwich Albion
-Oleksandr Karavayev	32	1	Dynamo Kyiv
+Oleksandr Karavayev	33	1	Dynamo Kyiv
 Oleksandr Tymchyk	4	0	Dynamo Kyiv
-Oleksandr Zinchenko	38	5	Manchester City
-Oleksandr Zubkov	10	1	Ferencváros
-Olivier Giroud	107	44	Chelsea
-Ondřej Čelůstka	25	2	Sparta Prague
-Ondrej Duda	44	5	1. FC Köln
+Oleksandr Zinchenko	39	6	Manchester City
+Oleksandr Zubkov	11	1	Ferencváros
+Olivier Giroud	108	46	Chelsea
+Ondřej Čelůstka	26	3	Sparta Prague
+Ondrej Duda	45	5	1. FC Köln
 Onni Valakari	5	1	Pafos
 Orkun Kökçü	6	0	Feyenoord
-Ousmane Dembélé	24	4	Barcelona
-Owen Wijndal	8	0	AZ
+Ousmane Dembélé	25	4	Barcelona
+Owen Wijndal	9	0	AZ
 Ozan Kabak	12	0	Liverpool
 Ozan Tufan	60	9	Fenerbahçe
 Pablo Sarabia	4	1	Paris Saint-Germain
-Patrick van Aanholt	14	0	Crystal Palace
-Patrik Hrošovský	35	0	Genk
-Patrik Schick	25	10	Bayer Leverkusen
+Patrick van Aanholt	15	0	Crystal Palace
+Patrik Hrošovský	36	0	Genk
+Patrik Schick	26	11	Bayer Leverkusen
 Pau Torres	8	1	Villarreal
-Paul Pogba	79	10	Manchester United
+Paul Pogba	80	10	Manchester United
 Paulus Arajuuri	51	3	Pafos
 Pavao Pervan	7	0	VfL Wolfsburg
 Pavel Kadeřábek	47	3	1899 Hoffenheim
-Paweł Dawidowicz	2	0	Hellas Verona
+Paweł Dawidowicz	3	0	Hellas Verona
 Pedri	4	0	Barcelona
-Pedro Gonçalves	1	0	Sporting CP
-Pepe	114	7	Porto
-Péter Gulácsi	38	0	RB Leipzig
-Peter Pekarík	100	2	Hertha BSC
+Pedro Gonçalves	2	0	Sporting CP
+Pepe	115	7	Porto
+Péter Gulácsi	39	0	RB Leipzig
+Peter Pekarík	101	2	Hertha BSC
 Petr Ševčík	7	0	Slavia Prague
 Phil Foden	6	2	Manchester City
-Philipp Lienhart	3	0	SC Freiburg
+Philipp Lienhart	4	0	SC Freiburg
 Pierre-Emile Højbjerg	41	4	Tottenham Hotspur
 Pierre Bengtsson	38	0	Vejle
-Piotr Zieliński	59	6	Napoli
+Piotr Zieliński	60	7	Napoli
 Pontus Jansson	27	0	Brentford
-Presnel Kimpembe	16	0	Paris Saint-Germain
-Przemysław Frankowski	11	1	Chicago Fire FC
-Przemysław Płacheta	3	0	Norwich City
+Presnel Kimpembe	17	0	Paris Saint-Germain
+Przemysław Frankowski	12	1	Chicago Fire FC
+Przemysław Płacheta	4	0	Norwich City
 Pyry Soiri	31	5	Esbjerg
 Quincy Promes	48	7	Spartak Moscow
 Rafa Silva	21	0	Benfica
 Rafael Tolói	3	0	Atalanta
 Raheem Sterling	61	14	Manchester City
 Raphaël Guerreiro	46	2	Borussia Dortmund
-Raphaël Varane	74	5	Real Madrid
+Raphaël Varane	75	5	Real Madrid
 Rasmus Schüller	49	0	Djurgårdens IF
 Reece James	6	0	Chelsea
 Remo Freuler	29	3	Atalanta
-Renato Sanches	25	2	Lille
+Renato Sanches	26	2	Lille
 Rhys Norrington-Davies	5	0	Stoke City
 Ricardo Rodríguez	81	9	Torino
 Rıdvan Yılmaz	2	0	Beşiktaş
@@ -497,126 +496,126 @@ Rifat Zhemaletdinov	4	0	Lokomotiv Moscow
 Risto Jankov	0	0	Rabotnički
 Róbert Boženík	16	4	Feyenoord
 Robert Ivanov	4	0	Warta Poznań
-Robert Lewandowski	118	66	Bayern Munich
-Róbert Mak	65	14	Ferencváros
+Robert Lewandowski	119	66	Bayern Munich
+Róbert Mak	66	14	Ferencváros
 Robert Sánchez	0	0	Brighton & Hove Albion
-Robert Skov	9	5	1899 Hoffenheim
+Robert Skov	10	5	1899 Hoffenheim
 Robert Taylor	19	1	Brann
-Robin Gosens	6	0	Atalanta
+Robin Gosens	7	1	Atalanta
 Robin Koch	8	0	Leeds United
 Robin Lod	43	4	Minnesota United FC
 Robin Olsen	44	0	Everton
 Robin Quaison	26	9	Mainz 05
 Rodri	20	1	Manchester City
 Roland Sallai	22	4	SC Freiburg
-Roland Varga	21	3	MTK Budapest
+Roland Varga	22	3	MTK Budapest
 Roman Bezus	23	5	Gent
-Roman Yaremchuk	23	7	Gent
+Roman Yaremchuk	24	8	Gent
+Roman Yevgenyev	1	0	Dynamo Moscow
 Roman Zobnin	35	0	Spartak Moscow
-Romelu Lukaku	92	59	Internazionale
-Rúben Dias	27	2	Manchester City
-Rúben Neves	20	0	Wolverhampton Wanderers
+Romelu Lukaku	93	60	Internazionale
+Rúben Dias	28	2	Manchester City
+Rúben Neves	21	0	Wolverhampton Wanderers
 Ruben Vargas	12	2	FC Augsburg
 Rubin Colwill	1	0	Cardiff City
 Rui Patrício	93	0	Wolverhampton Wanderers
-Rui Silva	0	0	Granada
-Ruslan Malinovskyi	36	6	Atalanta
+Rui Silva	1	0	Granada
+Ruslan Malinovskyi	37	6	Atalanta
 Ryan Christie	19	4	Celtic
-Ryan Fraser	17	4	Newcastle United
-Ryan Gravenberch	4	0	Ajax
+Ryan Fraser	18	4	Newcastle United
+Ryan Gravenberch	5	1	Ajax
 Salvatore Sirigu	26	0	Torino
-Sam Johnstone	0	0	West Bromwich Albion
-Saša Kalajdžić	6	3	VfB Stuttgart
-Scott McKenna	20	0	Nottingham Forest
-Scott McTominay	22	0	Manchester United
+Sam Johnstone	1	0	West Bromwich Albion
+Saša Kalajdžić	7	3	VfB Stuttgart
+Scott McKenna	21	0	Nottingham Forest
+Scott McTominay	23	0	Manchester United
 Sebastian Larsson	129	10	AIK
-Serge Gnabry	21	15	Bayern Munich
+Serge Gnabry	22	16	Bayern Munich
 Sergio Busquets	123	2	Barcelona
 Sérgio Oliveira	11	0	Porto
-Serhiy Kryvtsov	22	0	Shakhtar Donetsk
+Serhiy Kryvtsov	23	0	Shakhtar Donetsk
 Serhiy Sydorchuk	36	3	Dynamo Kyiv
 Silvan Widmer	16	1	Basel
-Šime Vrsaljko	48	0	Atlético Madrid
-Simon Kjær	106	3	Milan
+Šime Vrsaljko	49	0	Atlético Madrid
+Simon Kjær	107	3	Milan
 Simon Mignolet	31	0	Club Brugge
 Simon Sluga	3	0	Luton Town
 Stanislav Lobotka	28	3	Napoli
-Stefan de Vrij	44	3	Internazionale
-Stefan Ilsanker	50	0	Eintracht Frankfurt
+Stefan de Vrij	45	3	Internazionale
+Stefan Ilsanker	51	0	Eintracht Frankfurt
 Stefan Lainer	29	1	Borussia Mönchengladbach
-Stefan Posch	10	1	1899 Hoffenheim
+Stefan Posch	11	1	1899 Hoffenheim
 Stefan Ristovski	65	2	Dinamo Zagreb
 Stefan Spirovski	40	1	AEK Larnaca
-Stefano Sensi	8	3	Internazionale
-Stephen O'Donnell	18	0	Motherwell
+Stephen O'Donnell	19	0	Motherwell
 Steve Mandanda	34	0	Marseille
-Steven Berghuis	25	2	Feyenoord
+Steven Berghuis	26	2	Feyenoord
 Steven Zuber	37	8	Eintracht Frankfurt
 Stole Dimitrievski	42	0	Rayo Vallecano
 Stuart Armstrong	25	2	Southampton
-Szabolcs Schön	0	0	FC Dallas
+Szabolcs Schön	1	0	FC Dallas
 Tamás Cseri	3	0	Mezőkövesd
-Taras Stepanenko	61	3	Shakhtar Donetsk
+Taras Stepanenko	62	3	Shakhtar Donetsk
 Taylan Antalyalı	6	0	Galatasaray
 Teemu Pukki	91	30	Norwich City
 Teun Koopmeiners	1	0	AZ
 Thiago	42	2	Liverpool
-Thibaut Courtois	83	0	Real Madrid
-Thomas Delaney	53	5	Borussia Dortmund
+Thibaut Courtois	84	0	Real Madrid
+Thomas Delaney	54	5	Borussia Dortmund
 Thomas Lam	26	0	PEC Zwolle
-Thomas Lemar	24	4	Atlético Madrid
+Thomas Lemar	25	4	Atlético Madrid
 Thomas Meunier	47	7	Borussia Dortmund
-Thomas Müller	101	38	Bayern Munich
-Thomas Vermaelen	79	2	Vissel Kobe
-Thorgan Hazard	34	6	Borussia Dortmund
+Thomas Müller	102	39	Bayern Munich
+Thomas Vermaelen	80	2	Vissel Kobe
+Thorgan Hazard	35	6	Borussia Dortmund
 Tihomir Kostadinov	10	0	Ružomberok
 Tim Krul	15	0	Norwich City
 Tim Sparv	81	1	AEL
-Timo Werner	38	15	Chelsea
-Timothy Castagne	13	2	Leicester City
-Toby Alderweireld	108	5	Tottenham Hotspur
+Timo Werner	39	16	Chelsea
+Timothy Castagne	14	2	Leicester City
+Toby Alderweireld	109	5	Tottenham Hotspur
 Tom Lockyer	13	0	Luton Town
-Tomáš Holeš	7	1	Slavia Prague
-Tomáš Hubočan	69	0	Omonia
-Tomáš Kalas	22	2	Bristol City
-Tomáš Pekhart	21	2	Legia Warsaw
-Tomáš Souček	34	7	West Ham United
+Tomáš Holeš	8	1	Slavia Prague
+Tomáš Hubočan	70	0	Omonia
+Tomáš Kalas	23	2	Bristol City
+Tomáš Pekhart	22	2	Legia Warsaw
+Tomáš Souček	35	7	West Ham United
 Tomáš Suslov	3	0	Groningen
-Tomáš Vaclík	36	0	Sevilla
-Tomasz Kędziora	22	0	Dynamo Kyiv
-Toni Kroos	101	17	Real Madrid
+Tomáš Vaclík	37	0	Sevilla
+Tomasz Kędziora	23	0	Dynamo Kyiv
+Toni Kroos	102	17	Real Madrid
 Tyler Roberts	14	0	Leeds United
-Tymoteusz Puchacz	1	0	Lech Poznań
-Tyrone Mings	9	0	Aston Villa
+Tymoteusz Puchacz	2	0	Lech Poznań
+Tyrone Mings	10	0	Aston Villa
 Uğurcan Çakır	8	0	Trabzonspor
 Umut Meraş	13	0	Le Havre
 Unai Simón	7	0	Athletic Bilbao
-Valentino Lazaro	30	3	Borussia Mönchengladbach
+Valentino Lazaro	31	3	Borussia Mönchengladbach
 Victor Lindelöf	41	3	Manchester United
 Viktor Claesson	46	9	Krasnodar
 Viktor Tsyhankov	26	6	Dynamo Kyiv
 Visar Musliu	31	1	Fehérvár
 Vitaliy Mykolenko	15	0	Dynamo Kyiv
-Vladimír Coufal	15	1	West Ham United
-Vladimír Darida	71	8	Hertha BSC
-Vladimír Weiss	68	7	Slovan Bratislava
+Vladimír Coufal	16	1	West Ham United
+Vladimír Darida	72	8	Hertha BSC
+Vladimír Weiss	69	7	Slovan Bratislava
 Vlatko Stojanovski	8	2	Chambly
 Vyacheslav Karavayev	13	2	Zenit Saint Petersburg
 Wayne Hennessey	96	0	Crystal Palace
-Willi Orbán	21	5	RB Leipzig
-William Carvalho	65	4	Real Betis
-Wissam Ben Yedder	13	2	Monaco
-Wojciech Szczęsny	52	0	Juventus
-Wout Weghorst	5	0	VfL Wolfsburg
+Willi Orbán	22	5	RB Leipzig
+William Carvalho	66	4	Real Betis
+Wissam Ben Yedder	14	2	Monaco
+Wojciech Szczęsny	53	0	Juventus
+Wout Weghorst	6	1	VfL Wolfsburg
 Xaver Schlager	20	1	VfL Wolfsburg
 Xherdan Shaqiri	91	23	Liverpool
 Yann Sommer	61	0	Borussia Mönchengladbach
-Yannick Carrasco	45	6	Atlético Madrid
-Yevhenii Makarenko	11	0	Kortrijk
-Youri Tielemans	38	4	Leicester City
+Yannick Carrasco	46	6	Atlético Madrid
+Yevhenii Makarenko	12	0	Kortrijk
+Youri Tielemans	39	4	Leicester City
 Yuri Zhirkov	104	2	Zenit Saint Petersburg
 Yury Dyupin	0	0	Rubin Kazan
-Yussuf Poulsen	53	8	RB Leipzig
+Yussuf Poulsen	54	8	RB Leipzig
 Yusuf Yazıcı	31	1	Lille
 Yvon Mvogo	4	0	PSV Eindhoven
 Zeki Çelik	20	2	Lille
